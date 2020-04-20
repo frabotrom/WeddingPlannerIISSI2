@@ -3,7 +3,7 @@
 function crearConexionBD()
 {
     $host="oci:WeddingPlannerSimplified=localhost/XE;charset=UTF8";
-    $usuario="DIEGOCRESPO";
+    $usuario="WEDDINGPLANNER";
     $password="IISSI2";
 
     try{
